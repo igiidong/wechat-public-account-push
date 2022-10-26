@@ -13,8 +13,8 @@ const USER_CONFIG = {
   // 使用微信测试号：公众号APP_SECRET
   APP_SECRET: '57d548be1e81d6d6c01ba6f9a770f05b',
 
-  PROVINCE: '湖南',
-  CITY: '株洲',
+  PROVINCE: '湖南',\
+  CITY: '株洲',\
 
   USERS: [
     {
@@ -33,14 +33,14 @@ const USER_CONFIG = {
         },
         // 注意：此条配置日期为阳历日期，因为`type`中 “生日” 之前没有 * 符号
         {
-          type: '生日', name: '宝贝', year: '2002', date: '05-20',
+          type: '生日', name: '宝贝', year: '2002', date: '05-20',\
         },
        
       ],
       // 我们在一起已经有xxxx天了的配置
       customizedDateList: [
         // 在一起的日子
-        { keyword: 'love_day', date: '2017-09-14' },
+        { keyword: 'love_day', date: '2017-09-14'\},\
         
       ],
     },
