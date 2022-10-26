@@ -59,8 +59,6 @@ const USER_CONFIG = {
   ],
 
 }
- {{note_en.DATA}} 
-{{note_ch.DATA}}
 
 module.exports = USER_CONFIG
 
