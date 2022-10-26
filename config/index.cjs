@@ -35,23 +35,20 @@ const USER_CONFIG = {
         {
           type: '生日', name: '宝贝', year: '2002', date: '05-20',
         },
-        {
-          //type: '节日', name: '相识纪念日', year: '2020', date: '09-03',
-        },
+       
       ],
       // 我们在一起已经有xxxx天了的配置
       customizedDateList: [
         // 在一起的日子
         { keyword: 'love_day', date: '2017-09-013' },
-        // 结婚纪念日
-        { //keyword: 'marry_day', date: '2022-09-09' },
+        
       ],
     },
   ],
 
 
   // 【推送完成提醒】模板id, 用来看自己有没有发送成功的那个模板
-  CALLBACK_TEMPLATE_ID: '',
+  CALLBACK_TEMPLATE_ID: 'f2I5yWFP-FBltgIi9t6MBDHey7NbGAok3nVOwDJaV94',
 
   CALLBACK_USERS: [
     {
