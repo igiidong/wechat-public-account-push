@@ -29,7 +29,7 @@ const USER_CONFIG = {
       festivals: [
         // 注意：此条配置日期为阴历日期，因为`type`中 “生日” 之前有 * 符号
         {
-          type: '*生日', name: '宝贝', year: '2002', date: '04-09',
+          //type: '*生日', name: '宝贝', year: '2002', date: '04-09',
         },
         // 注意：此条配置日期为阳历日期，因为`type`中 “生日” 之前没有 * 符号
         {
@@ -40,7 +40,7 @@ const USER_CONFIG = {
       // 我们在一起已经有xxxx天了的配置
       customizedDateList: [
         // 在一起的日子
-        { keyword: 'love_day', date: '2017-09-13' },
+        { keyword: 'love_day', date: '2017-09-14' },
         
       ],
     },
@@ -48,7 +48,7 @@ const USER_CONFIG = {
 
 
   // 【推送完成提醒】模板id, 用来看自己有没有发送成功的那个模板
-  CALLBACK_TEMPLATE_ID: 'KMkPJYlKyD_oIT9ftcd0HEL_zUWQDfpj_BS4c2TEggs',
+  CALLBACK_TEMPLATE_ID: 'boJIVt7WMTeF1EI--JXruHCF9G9kPzxU4xnL6QAQJxU',
 
   CALLBACK_USERS: [
     {
